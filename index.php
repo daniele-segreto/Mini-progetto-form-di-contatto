@@ -10,6 +10,10 @@
 <body>
     <div class="container">
         <h1>Contattateci!</h1>
+
+        <!-- ERRORE DI VALIDAZIONE-->
+        <div id="error"></div>
+
         <!-- FORM -->
         <form class="mt-3">
             <fieldset class="form-group">
@@ -33,7 +37,9 @@
     
     <!-- Bootstrap JS -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-HwwvtgBNo3bZJJLYd8oVXjrBZt8cqVSpeBNS5n7C8IVInixGAoxmnlMuBnhbgrkm" crossorigin="anonymous"></script>
+    <!-- jQuery -->
+    <script src="./js/jquery-3.7.0.js"></script>
     <!-- JavaScript -->
-    <script type="text/javaScript" src=""></script>
+    <script type="text/javaScript" src="./js/script.js"></script>
 </body>
 </html>
